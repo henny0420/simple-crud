@@ -1,0 +1,24 @@
+@import "tailwindcss";
+p,h1,h2,h3,h4,h5,h6{
+  margin: 0;
+  padding : 0
+}
+
+*{
+  box-sizing: border-box;
+}
+
+
+
+body{
+  margin: 0;
+  padding: 0;
+}
+/* :root {
+  --primary :#fffae9;
+} */
+@theme {
+
+    --color-primary : #fffae9;
+    --container-main : 1040px;
+}
